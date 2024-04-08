@@ -65,14 +65,14 @@
 
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/Control-Theory/</loc>
+    <loc>https://bruce-yixuan-li.github.io/tags/Machine-Learning/</loc>
     <lastmod>2024-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/Machine-Learning/</loc>
+    <loc>https://bruce-yixuan-li.github.io/tags/Control-Theory/</loc>
     <lastmod>2024-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -88,13 +88,6 @@
 
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/categories/2024/</loc>
-    <lastmod>2024-04-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://bruce-yixuan-li.github.io/categories/2023/</loc>
     <lastmod>2024-04-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -102,7 +95,7 @@
   </url>
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/categories/2024/2024-03/</loc>
+    <loc>https://bruce-yixuan-li.github.io/categories/2024/</loc>
     <lastmod>2024-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -110,6 +103,13 @@
   
   <url>
     <loc>https://bruce-yixuan-li.github.io/categories/2023/2023-02/</loc>
+    <lastmod>2024-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bruce-yixuan-li.github.io/categories/2024/2024-03/</loc>
     <lastmod>2024-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
