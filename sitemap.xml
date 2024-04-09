@@ -74,13 +74,6 @@
 
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/Machine-Learning/</loc>
-    <lastmod>2024-04-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://bruce-yixuan-li.github.io/tags/Control-Theory/</loc>
     <lastmod>2024-04-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -88,7 +81,7 @@
   </url>
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/Computational-Neuroscience/</loc>
+    <loc>https://bruce-yixuan-li.github.io/tags/Machine-Learning/</loc>
     <lastmod>2024-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -108,17 +101,31 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://bruce-yixuan-li.github.io/tags/Computational-Neuroscience/</loc>
+    <lastmod>2024-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/categories/2023/</loc>
+    <loc>https://bruce-yixuan-li.github.io/categories/2024/</loc>
     <lastmod>2024-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/categories/2024/</loc>
+    <loc>https://bruce-yixuan-li.github.io/categories/2024/2024-03/</loc>
+    <lastmod>2024-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bruce-yixuan-li.github.io/categories/2023/</loc>
     <lastmod>2024-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -139,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/categories/2024/2024-03/</loc>
+    <loc>https://bruce-yixuan-li.github.io/categories/2022/2022-06/</loc>
     <lastmod>2024-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -147,13 +154,6 @@
   
   <url>
     <loc>https://bruce-yixuan-li.github.io/categories/2023/2023-08/</loc>
-    <lastmod>2024-04-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/categories/2022/2022-06/</loc>
     <lastmod>2024-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
