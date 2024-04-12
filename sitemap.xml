@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/about/index.html</loc>
+    <loc>https://bruce-yixuan-li.github.io/2024/04/11/What_Is_Normal_Mode_Decomposition/</loc>
     
     <lastmod>2024-04-12</lastmod>
     
@@ -11,18 +11,9 @@
   </url>
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/2024/04/11/What_Is_Normal_Mode_Decomposition/</loc>
-    
-    <lastmod>2024-04-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://bruce-yixuan-li.github.io/2022/06/01/Bachelor_Thesis/</loc>
     
-    <lastmod>2024-04-09</lastmod>
+    <lastmod>2024-04-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +22,7 @@
   <url>
     <loc>https://bruce-yixuan-li.github.io/2023/08/01/Welcome-to-the-Computational-Neuroscience-Course_English/</loc>
     
-    <lastmod>2024-04-09</lastmod>
+    <lastmod>2024-04-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +31,7 @@
   <url>
     <loc>https://bruce-yixuan-li.github.io/2023/02/15/A_Note_on_the_Machine_Learning_Course_of_USTC_in_Fall_2022/</loc>
     
-    <lastmod>2024-04-07</lastmod>
+    <lastmod>2024-04-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +40,16 @@
   <url>
     <loc>https://bruce-yixuan-li.github.io/2024/03/22/A_Note_on_Control_Theory/</loc>
     
-    <lastmod>2024-04-07</lastmod>
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://bruce-yixuan-li.github.io/about/index.html</loc>
+    
+    <lastmod>2024-04-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -90,6 +90,13 @@
   </url>
   
   <url>
+    <loc>https://bruce-yixuan-li.github.io/tags/Machine-Learning/</loc>
+    <lastmod>2024-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://bruce-yixuan-li.github.io/tags/physics/</loc>
     <lastmod>2024-04-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -104,7 +111,7 @@
   </url>
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/Machine-Learning/</loc>
+    <loc>https://bruce-yixuan-li.github.io/tags/linear-algebra/</loc>
     <lastmod>2024-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -117,69 +124,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/linear-algebra/</loc>
-    <lastmod>2024-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/categories/2024/</loc>
-    <lastmod>2024-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/categories/2022/</loc>
-    <lastmod>2024-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/categories/2023/</loc>
-    <lastmod>2024-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/categories/2024/2024-03/</loc>
-    <lastmod>2024-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/categories/2024/2024-04/</loc>
-    <lastmod>2024-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/categories/2022/2022-06/</loc>
-    <lastmod>2024-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/categories/2023/2023-02/</loc>
-    <lastmod>2024-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/categories/2023/2023-08/</loc>
-    <lastmod>2024-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 </urlset>
