@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://bruce-yixuan-li.github.io/pdfs/A_Quick_Tutorial_for_Statistics.html</loc>
+    
+    <lastmod>2024-04-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://bruce-yixuan-li.github.io/2022/06/01/Bachelor_Thesis/</loc>
     
     <lastmod>2024-04-17</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://bruce-yixuan-li.github.io/2023/11/16/A_Quick_Tutorial_for_Statistics/</loc>
-    
-    <lastmod>2024-04-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/pdfs/A_Quick_Tutorial_for_Statistics.html</loc>
     
     <lastmod>2024-04-17</lastmod>
     
@@ -101,13 +101,6 @@
 
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/Control-Theory/</loc>
-    <lastmod>2024-04-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://bruce-yixuan-li.github.io/tags/Statistics/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -116,6 +109,13 @@
   
   <url>
     <loc>https://bruce-yixuan-li.github.io/tags/Neuroscience/</loc>
+    <lastmod>2024-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bruce-yixuan-li.github.io/tags/Control-Theory/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
