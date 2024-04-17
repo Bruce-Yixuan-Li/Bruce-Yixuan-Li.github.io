@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/2023/11/16/A_Quick_Tutorial_for_Statistics/</loc>
+    <loc>https://bruce-yixuan-li.github.io/2023/11/16/Vision_of_Mammals/</loc>
+    
+    <lastmod>2024-04-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://bruce-yixuan-li.github.io/2023/10/06/The_Hodgkin_Huxley_Model_as_a_Dynamic_System/</loc>
+    
+    <lastmod>2024-04-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://bruce-yixuan-li.github.io/2023/11/16/A_Quick_Tutorial_on_Statistics/</loc>
     
     <lastmod>2024-04-17</lastmod>
     
@@ -83,6 +101,15 @@
   </url>
   
   <url>
+    <loc>https://bruce-yixuan-li.github.io/pdfs/The_Hodgkin_Huxley_Model_as_a_Dynamical_System.html</loc>
+    
+    <lastmod>2023-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://bruce-yixuan-li.github.io/tags/index.html</loc>
     
     <lastmod>2023-09-03</lastmod>
@@ -115,7 +142,7 @@
   </url>
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/Physics/</loc>
+    <loc>https://bruce-yixuan-li.github.io/tags/Statistics/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -129,14 +156,14 @@
   </url>
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/Statistics/</loc>
+    <loc>https://bruce-yixuan-li.github.io/tags/Physics/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/Linear-Algebra/</loc>
+    <loc>https://bruce-yixuan-li.github.io/tags/Dynamic-System/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -144,6 +171,13 @@
   
   <url>
     <loc>https://bruce-yixuan-li.github.io/tags/Computational-Neuroscience/</loc>
+    <lastmod>2024-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bruce-yixuan-li.github.io/tags/Linear-Algebra/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
