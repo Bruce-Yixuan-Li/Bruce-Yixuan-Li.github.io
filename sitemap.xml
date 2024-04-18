@@ -149,6 +149,13 @@
   </url>
   
   <url>
+    <loc>https://bruce-yixuan-li.github.io/tags/Physics/</loc>
+    <lastmod>2024-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://bruce-yixuan-li.github.io/tags/Neuroscience/</loc>
     <lastmod>2024-04-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -157,13 +164,6 @@
   
   <url>
     <loc>https://bruce-yixuan-li.github.io/tags/Dynamic-System/</loc>
-    <lastmod>2024-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/Physics/</loc>
     <lastmod>2024-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
