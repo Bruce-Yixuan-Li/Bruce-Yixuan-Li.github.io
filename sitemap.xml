@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/2023/11/16/A_Quick_Tutorial_on_Statistics/</loc>
+    <loc>https://bruce-yixuan-li.github.io/2023/08/01/Welcome-to-the-Computational-Neuroscience-Course_English/</loc>
     
-    <lastmod>2024-04-17</lastmod>
+    <lastmod>2024-04-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/2023/11/16/Vision_of_Mammals/</loc>
+    <loc>https://bruce-yixuan-li.github.io/2023/11/16/A_Quick_Tutorial_on_Statistics/</loc>
     
-    <lastmod>2024-04-17</lastmod>
+    <lastmod>2024-04-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,16 +22,34 @@
   <url>
     <loc>https://bruce-yixuan-li.github.io/2023/10/06/The_Hodgkin_Huxley_Model_as_a_Dynamic_System/</loc>
     
-    <lastmod>2024-04-17</lastmod>
+    <lastmod>2024-04-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/pdfs/A_Quick_Tutorial_on_Statistics.html</loc>
+    <loc>https://bruce-yixuan-li.github.io/2023/11/16/Vision_of_Mammals/</loc>
     
-    <lastmod>2024-04-17</lastmod>
+    <lastmod>2024-04-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://bruce-yixuan-li.github.io/2024/01/31/Notes_of_TA/</loc>
+    
+    <lastmod>2024-04-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://bruce-yixuan-li.github.io/about/index.html</loc>
+    
+    <lastmod>2024-04-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -50,24 +68,6 @@
     <loc>https://bruce-yixuan-li.github.io/2024/04/11/What_Is_Normal_Mode_Decomposition/</loc>
     
     <lastmod>2024-04-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/about/index.html</loc>
-    
-    <lastmod>2024-04-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/2023/08/01/Welcome-to-the-Computational-Neuroscience-Course_English/</loc>
-    
-    <lastmod>2024-04-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -95,15 +95,6 @@
     <loc>https://bruce-yixuan-li.github.io/categories/index.html</loc>
     
     <lastmod>2023-10-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/pdfs/The_Hodgkin_Huxley_Model_as_a_Dynamical_System.html</loc>
-    
-    <lastmod>2023-10-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -149,6 +140,20 @@
   </url>
   
   <url>
+    <loc>https://bruce-yixuan-li.github.io/tags/Teaching-Assistant/</loc>
+    <lastmod>2024-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bruce-yixuan-li.github.io/tags/Physics/</loc>
+    <lastmod>2024-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://bruce-yixuan-li.github.io/tags/Neuroscience/</loc>
     <lastmod>2024-04-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -157,13 +162,6 @@
   
   <url>
     <loc>https://bruce-yixuan-li.github.io/tags/Dynamic-System/</loc>
-    <lastmod>2024-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/Physics/</loc>
     <lastmod>2024-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
