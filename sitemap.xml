@@ -4,7 +4,7 @@
   <url>
     <loc>https://bruce-yixuan-li.github.io/about/index.html</loc>
     
-    <lastmod>2024-04-18</lastmod>
+    <lastmod>2024-04-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -119,13 +119,6 @@
 
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/Machine-Learning/</loc>
-    <lastmod>2024-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://bruce-yixuan-li.github.io/tags/Control-Theory/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -141,6 +134,13 @@
   
   <url>
     <loc>https://bruce-yixuan-li.github.io/tags/Teaching-Assistant/</loc>
+    <lastmod>2024-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bruce-yixuan-li.github.io/tags/Machine-Learning/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -168,14 +168,14 @@
   </url>
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/Linear-Algebra/</loc>
+    <loc>https://bruce-yixuan-li.github.io/tags/Computational-Neuroscience/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/Computational-Neuroscience/</loc>
+    <loc>https://bruce-yixuan-li.github.io/tags/Linear-Algebra/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
