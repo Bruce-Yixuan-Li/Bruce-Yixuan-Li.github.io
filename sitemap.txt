@@ -11,12 +11,12 @@ https://bruce-yixuan-li.github.io/2024/03/22/A_Note_on_Control_Theory/
 https://bruce-yixuan-li.github.io/categories/index.html
 https://bruce-yixuan-li.github.io/tags/index.html
 https://bruce-yixuan-li.github.io/
-https://bruce-yixuan-li.github.io/tags/Control-Theory/
 https://bruce-yixuan-li.github.io/tags/Machine-Learning/
+https://bruce-yixuan-li.github.io/tags/Control-Theory/
 https://bruce-yixuan-li.github.io/tags/Statistics/
 https://bruce-yixuan-li.github.io/tags/Teaching-Assistant/
 https://bruce-yixuan-li.github.io/tags/Physics/
 https://bruce-yixuan-li.github.io/tags/Neuroscience/
 https://bruce-yixuan-li.github.io/tags/Dynamic-System/
-https://bruce-yixuan-li.github.io/tags/Computational-Neuroscience/
 https://bruce-yixuan-li.github.io/tags/Linear-Algebra/
+https://bruce-yixuan-li.github.io/tags/Computational-Neuroscience/
