@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://bruce-yixuan-li.github.io/2023/07/01/Info_for_Compu_Neuro_Hackers/</loc>
+    
+    <lastmod>2024-05-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://bruce-yixuan-li.github.io/2023/11/16/Vision_of_Mammals/</loc>
     
     <lastmod>2024-05-05</lastmod>
@@ -30,15 +39,6 @@
   
   <url>
     <loc>https://bruce-yixuan-li.github.io/2024/01/31/Notes_of_TA/</loc>
-    
-    <lastmod>2024-05-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/2023/07/01/Info_for_Compu_Neuro_Hackers/</loc>
     
     <lastmod>2024-05-05</lastmod>
     
@@ -135,7 +135,14 @@
   </url>
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/Machine-Learning/</loc>
+    <loc>https://bruce-yixuan-li.github.io/tags/Statistics/</loc>
+    <lastmod>2024-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bruce-yixuan-li.github.io/tags/Teaching-Assistant/</loc>
     <lastmod>2024-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -156,14 +163,7 @@
   </url>
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/Statistics/</loc>
-    <lastmod>2024-05-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/Teaching-Assistant/</loc>
+    <loc>https://bruce-yixuan-li.github.io/tags/Machine-Learning/</loc>
     <lastmod>2024-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
