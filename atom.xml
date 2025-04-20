@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yixuan Li&#39;s Land</title>
+  <icon>https://bruce-yixuan-li.github.io/icon.png</icon>
+  <subtitle>Hi, this is Yixuan. I am interested in both computational neuroscience and machine learning. I am sharing my learning notes of this strange world here. Hope you enjoy it!</subtitle>
+  <link href="https://bruce-yixuan-li.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://bruce-yixuan-li.github.io/"/>
+  <updated>2025-02-08T07:49:41.177Z</updated>
+  <id>https://bruce-yixuan-li.github.io/</id>
+  
+  <author>
+    <name>Yixuan Li</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Reports of Large Language Models Since 2022</title>
+    <link href="https://bruce-yixuan-li.github.io/2025/01/28/LLM_Reports/"/>
+    <id>https://bruce-yixuan-li.github.io/2025/01/28/LLM_Reports/</id>
+    <published>2025-01-27T16:00:00.000Z</published>
+    <updated>2025-02-08T07:49:41.177Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Check it &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="2025" scheme="https://bruce-yixuan-li.github.io/categories/2025/"/>
+    
+    <category term="2025-01" scheme="https://bruce-yixuan-li.github.io/categories/2025/2025-01/"/>
+    
+    
+    <category term="Machine Learning" scheme="https://bruce-yixuan-li.github.io/tags/Machine-Learning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ML Note | TF of Compu Physi B</title>
+    <link href="https://bruce-yixuan-li.github.io/2025/01/15/ML_Note_as_the_TF_of_Compu_Physi_B/"/>
+    <id>https://bruce-yixuan-li.github.io/2025/01/15/ML_Note_as_the_TF_of_Compu_Physi_B/</id>
+    <published>2025-01-14T16:00:00.000Z</published>
+    <updated>2025-02-08T07:48:53.948Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Check it &lt;a href=&quot;https://physics-lee.github.io/tags/pdfs/ML_Note_Yixuan.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It is written in Chinese, because all my students are</summary>
+        
+      
+    
+    
+    
+    <category term="2025" scheme="https://bruce-yixuan-li.github.io/categories/2025/"/>
+    
+    <category term="2025-01" scheme="https://bruce-yixuan-li.github.io/categories/2025/2025-01/"/>
+    
+    
+    <category term="Teaching Assistant" scheme="https://bruce-yixuan-li.github.io/tags/Teaching-Assistant/"/>
+    
+    <category term="Machine Learning" scheme="https://bruce-yixuan-li.github.io/tags/Machine-Learning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>What Is Normal Mode Decomposition?</title>
+    <link href="https://bruce-yixuan-li.github.io/2024/04/11/What_Is_Normal_Mode_Decomposition/"/>
+    <id>https://bruce-yixuan-li.github.io/2024/04/11/What_Is_Normal_Mode_Decomposition/</id>
+    <published>2024-04-10T16:00:00.000Z</published>
+    <updated>2024-04-17T07:28:27.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Check my &lt;a href=&quot;https://bruce-yixuan-li.github.io/pdfs/What_Is_Normal_Mode_Decomposition.pdf&quot;&gt;latest note&lt;/a&gt; for the</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Physics" scheme="https://bruce-yixuan-li.github.io/tags/Physics/"/>
+    
+    <category term="Linear Algebra" scheme="https://bruce-yixuan-li.github.io/tags/Linear-Algebra/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A Note on Control Theory</title>
+    <link href="https://bruce-yixuan-li.github.io/2024/03/22/A_Note_on_Control_Theory/"/>
+    <id>https://bruce-yixuan-li.github.io/2024/03/22/A_Note_on_Control_Theory/</id>
+    <published>2024-03-21T16:00:00.000Z</published>
+    <updated>2024-10-27T05:46:11.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Check it &lt;a href=&quot;https://bruce-yixuan-li.github.io/pdfs/A_Note_on_Control_Theory.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This note serves as one of my Journal Club entries. I start from dynamic systems, progress</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Control Theory" scheme="https://bruce-yixuan-li.github.io/tags/Control-Theory/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Notes as a TA</title>
+    <link href="https://bruce-yixuan-li.github.io/2024/01/31/Notes_of_TA/"/>
+    <id>https://bruce-yixuan-li.github.io/2024/01/31/Notes_of_TA/</id>
+    <published>2024-01-30T16:00:00.000Z</published>
+    <updated>2024-05-05T00:01:41.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://bruce-yixuan-li.github.io/pdfs/Notes_of_TA.pdf&quot;&gt;This&lt;/a&gt; is the notes of mine when I was the TA. I tried to introduce the framework of computational neuroscience to the</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Teaching Assistant" scheme="https://bruce-yixuan-li.github.io/tags/Teaching-Assistant/"/>
+    
+    <category term="Computational Neuroscience" scheme="https://bruce-yixuan-li.github.io/tags/Computational-Neuroscience/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A Quick Tutorial on Statistics</title>
+    <link href="https://bruce-yixuan-li.github.io/2023/11/16/A_Quick_Tutorial_on_Statistics/"/>
+    <id>https://bruce-yixuan-li.github.io/2023/11/16/A_Quick_Tutorial_on_Statistics/</id>
+    <published>2023-11-15T16:00:00.000Z</published>
+    <updated>2024-04-18T10:05:52.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://bruce-yixuan-li.github.io/pdfs/A_Quick_Tutorial_on_Statistics.pdf&quot;&gt;Here&lt;/a&gt; it is!&lt;/p&gt;
+&lt;p&gt;This is a tutorial I conducted as a teaching assistant. I delivered a crash course</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Statistics" scheme="https://bruce-yixuan-li.github.io/tags/Statistics/"/>
+    
+    <category term="Teaching Assistant" scheme="https://bruce-yixuan-li.github.io/tags/Teaching-Assistant/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vision of Mammals</title>
+    <link href="https://bruce-yixuan-li.github.io/2023/11/16/Vision_of_Mammals/"/>
+    <id>https://bruce-yixuan-li.github.io/2023/11/16/Vision_of_Mammals/</id>
+    <published>2023-11-15T16:00:00.000Z</published>
+    <updated>2024-05-05T00:03:08.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Check it &lt;a href=&quot;https://bruce-yixuan-li.github.io/pdfs/Vision_of_Mammals.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is a tutorial I instructed as a teaching assistant. I explained how to use Hubel-Wiesel Method</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Teaching Assistant" scheme="https://bruce-yixuan-li.github.io/tags/Teaching-Assistant/"/>
+    
+    <category term="Computational Neuroscience" scheme="https://bruce-yixuan-li.github.io/tags/Computational-Neuroscience/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Hodgkin Huxley Model as a Dynamical System</title>
+    <link href="https://bruce-yixuan-li.github.io/2023/10/06/The_Hodgkin_Huxley_Model_as_a_Dynamic_System/"/>
+    <id>https://bruce-yixuan-li.github.io/2023/10/06/The_Hodgkin_Huxley_Model_as_a_Dynamic_System/</id>
+    <published>2023-10-05T16:00:00.000Z</published>
+    <updated>2024-05-05T00:03:03.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://bruce-yixuan-li.github.io/pdfs/The_Hodgkin_Huxley_Model_as_a_Dynamical_System.pdf&quot;&gt;Here&lt;/a&gt; it is.&lt;/p&gt;
+&lt;p&gt;This is a tutorial I delivered as a teaching assistant. I talked about</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Teaching Assistant" scheme="https://bruce-yixuan-li.github.io/tags/Teaching-Assistant/"/>
+    
+    <category term="Computational Neuroscience" scheme="https://bruce-yixuan-li.github.io/tags/Computational-Neuroscience/"/>
+    
+    <category term="Dynamic System" scheme="https://bruce-yixuan-li.github.io/tags/Dynamic-System/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Welcome to the Computational Neuroscience Course of USTC in Fall 2023</title>
+    <link href="https://bruce-yixuan-li.github.io/2023/08/01/Welcome-to-the-Computational-Neuroscience-Course_English/"/>
+    <id>https://bruce-yixuan-li.github.io/2023/08/01/Welcome-to-the-Computational-Neuroscience-Course_English/</id>
+    <published>2023-07-31T16:00:00.000Z</published>
+    <updated>2024-04-18T10:05:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Check it &lt;a href=&quot;https://bruce-yixuan-li.github.io/pdfs/Welcome-to-the-Computational-Neuroscience-Course_English.pdf&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Check our GitHub Rep &lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Teaching Assistant" scheme="https://bruce-yixuan-li.github.io/tags/Teaching-Assistant/"/>
+    
+    <category term="Computational Neuroscience" scheme="https://bruce-yixuan-li.github.io/tags/Computational-Neuroscience/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Info for Compu Neuro Hackers</title>
+    <link href="https://bruce-yixuan-li.github.io/2023/07/01/Info_for_Compu_Neuro_Hackers/"/>
+    <id>https://bruce-yixuan-li.github.io/2023/07/01/Info_for_Compu_Neuro_Hackers/</id>
+    <published>2023-06-30T16:00:00.000Z</published>
+    <updated>2024-05-05T00:10:11.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;I collected much useful information &lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Computational Neuroscience" scheme="https://bruce-yixuan-li.github.io/tags/Computational-Neuroscience/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A Note on the Machine Learning Course of USTC in Fall 2022</title>
+    <link href="https://bruce-yixuan-li.github.io/2023/02/15/A_Note_on_the_Machine_Learning_Course_of_USTC_in_Fall_2022/"/>
+    <id>https://bruce-yixuan-li.github.io/2023/02/15/A_Note_on_the_Machine_Learning_Course_of_USTC_in_Fall_2022/</id>
+    <published>2023-02-14T16:00:00.000Z</published>
+    <updated>2024-04-12T05:24:05.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Check it &lt;a href=&quot;https://bruce-yixuan-li.github.io/pdfs/A_Note_on_Machine_Learning.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This note is one of the correspondences between my ex-girlfriend and</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Machine Learning" scheme="https://bruce-yixuan-li.github.io/tags/Machine-Learning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bachelor Thesis</title>
+    <link href="https://bruce-yixuan-li.github.io/2022/06/01/Bachelor_Thesis/"/>
+    <id>https://bruce-yixuan-li.github.io/2022/06/01/Bachelor_Thesis/</id>
+    <published>2022-05-31T16:00:00.000Z</published>
+    <updated>2024-05-05T00:02:38.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Check it &lt;a href=&quot;https://bruce-yixuan-li.github.io/pdfs/Bachelor_Thesis_Bio_Archieve_Version.pdf&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;My bachelor thesis is a simulation study of transcranial Temporal Interference</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Computational Neuroscience" scheme="https://bruce-yixuan-li.github.io/tags/Computational-Neuroscience/"/>
+    
+    <category term="Physics" scheme="https://bruce-yixuan-li.github.io/tags/Physics/"/>
+    
+  </entry>
+  
+</feed>
