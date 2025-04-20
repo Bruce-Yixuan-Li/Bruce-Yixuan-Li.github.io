@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://bruce-yixuan-li.github.io/2025/01/15/ML_Note_as_the_TF_of_Compu_Physi_B/</loc>
+    
+    <lastmod>2025-04-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://bruce-yixuan-li.github.io/about/index.html</loc>
     
     <lastmod>2025-02-08</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://bruce-yixuan-li.github.io/2025/01/28/LLM_Reports/</loc>
-    
-    <lastmod>2025-02-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/2025/01/15/ML_Note_as_the_TF_of_Compu_Physi_B/</loc>
     
     <lastmod>2025-02-08</lastmod>
     
@@ -153,6 +153,13 @@
   </url>
   
   <url>
+    <loc>https://bruce-yixuan-li.github.io/tags/Machine-Learning/</loc>
+    <lastmod>2025-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://bruce-yixuan-li.github.io/tags/Statistics/</loc>
     <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -174,7 +181,7 @@
   </url>
   
   <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/Machine-Learning/</loc>
+    <loc>https://bruce-yixuan-li.github.io/tags/Dynamic-System/</loc>
     <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -182,13 +189,6 @@
   
   <url>
     <loc>https://bruce-yixuan-li.github.io/tags/Physics/</loc>
-    <lastmod>2025-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bruce-yixuan-li.github.io/tags/Dynamic-System/</loc>
     <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

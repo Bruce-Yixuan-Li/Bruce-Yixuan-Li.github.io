@@ -1,6 +1,6 @@
+https://bruce-yixuan-li.github.io/2025/01/15/ML_Note_as_the_TF_of_Compu_Physi_B/
 https://bruce-yixuan-li.github.io/about/index.html
 https://bruce-yixuan-li.github.io/2025/01/28/LLM_Reports/
-https://bruce-yixuan-li.github.io/2025/01/15/ML_Note_as_the_TF_of_Compu_Physi_B/
 https://bruce-yixuan-li.github.io/2024/03/22/A_Note_on_Control_Theory/
 https://bruce-yixuan-li.github.io/2023/07/01/Info_for_Compu_Neuro_Hackers/
 https://bruce-yixuan-li.github.io/2023/11/16/Vision_of_Mammals/
@@ -15,12 +15,12 @@ https://bruce-yixuan-li.github.io/categories/index.html
 https://bruce-yixuan-li.github.io/tags/index.html
 https://bruce-yixuan-li.github.io/
 https://bruce-yixuan-li.github.io/tags/Control-Theory/
+https://bruce-yixuan-li.github.io/tags/Machine-Learning/
 https://bruce-yixuan-li.github.io/tags/Statistics/
 https://bruce-yixuan-li.github.io/tags/Teaching-Assistant/
 https://bruce-yixuan-li.github.io/tags/Computational-Neuroscience/
-https://bruce-yixuan-li.github.io/tags/Machine-Learning/
-https://bruce-yixuan-li.github.io/tags/Physics/
 https://bruce-yixuan-li.github.io/tags/Dynamic-System/
+https://bruce-yixuan-li.github.io/tags/Physics/
 https://bruce-yixuan-li.github.io/tags/Linear-Algebra/
 https://bruce-yixuan-li.github.io/categories/2025/
 https://bruce-yixuan-li.github.io/categories/2025/2025-01/
